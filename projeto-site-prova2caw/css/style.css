@@ -1,0 +1,39 @@
+/*
+#000000 preto
+#2E332F cinza escuro
+#FECB00 Amarelo escurinho
+#FFD535 amarelo padrão
+*/
+
+body{
+  margin: 0%;
+  padding: 0%;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+#headerHome{
+  padding-left: 15px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+}
+
+#search{
+  padding-right: 1vw;
+}
+#search input{
+  border-radius: 15px;
+}
+.fonte{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+#footer{
+padding-left: 15px;
+align-items: center;
+justify-content: space-between;
+background-color: black;
+}
+
